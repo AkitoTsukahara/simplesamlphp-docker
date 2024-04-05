@@ -1,0 +1,25 @@
+/node_modules
+/vendor
+
+# PhpStorm / IntelliJ IDEA
+# https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+.idea/
+.env
+env/.env.develop
+env/.env.production
+.DS_Store
+_ide_helper.php
+.docker-sync/
+
+.phpunit.result.cache
+.deptrac.cache
+
+.tags
+.tags1
+
+# vscode
+.vscode/
+
+*.crt
+*.pem
+*.cp
