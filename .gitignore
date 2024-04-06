@@ -22,4 +22,6 @@ _ide_helper.php
 
 *.crt
 *.pem
+*.csr
+*.key
 *.cp
